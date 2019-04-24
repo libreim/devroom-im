@@ -1,9 +1,16 @@
-![libreim](https://libreim.github.io/assets/images/logo.png)
+<p align="center">
+  <img src="https://libreim.github.io/assets/images/logo.png" alt="libreim">
+</p>
+
 # Devroom de informática y matemáticas
 
 **Congreso esLibre: 21 de junio de 2019**
 
-[![Proponer una charla](https://img.shields.io/badge/-Proponer%20una%20charla-30af40.svg)](https://git.io/fjYME)
+<p align="center">
+  <a href="https://git.io/fjYME">
+    <img src="https://img.shields.io/badge/-Proponer%20una%20charla-30af40.svg" alt="Proponer una charla">
+  </a>
+</p>
 
 La informática y las matemáticas son disciplinas muy relacionadas, y fundamentales para algunas áreas del conocimiento, muchas de las cuales son de gran interés en la actualidad: por ejemplo, la programación funcional, el aprendizaje automático, los gráficos por ordenador, la computación cuántica, la verificación formal, etc.
 
