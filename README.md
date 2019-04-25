@@ -14,7 +14,9 @@
 
 La informática y las matemáticas son disciplinas muy relacionadas, y fundamentales para algunas áreas del conocimiento, muchas de las cuales son de gran interés en la actualidad: por ejemplo, la programación funcional, el aprendizaje automático, los gráficos por ordenador, la computación cuántica, la verificación formal, etc.
 
-Esta devroom está dedicada a todos los temas en los que tengan algo que ver la informática y las matemáticas, tanto si están de moda como si son más desconocidos. Y, por supuesto, siempre promoviendo la cultura y el software libre.
+Esta devroom está dedicada a todos los **temas en los que tengan algo que ver la informática y las matemáticas**, tanto si están de moda como si son más desconocidos. Y, por supuesto, siempre promoviendo la cultura y el software libre.
+
+El formato consistirá en una serie de **charlas cortas de unos 20 minutos**, con espacio para preguntas y comentarios tras cada una.
 
 ### Organización
 
