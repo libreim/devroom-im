@@ -29,3 +29,14 @@ Esta devroom está organizada por LibreIM, pero cualquiera puede proponer charla
 El plazo para enviar charlas está abierto hasta el **27 de mayo**.
 
 El programa de la devroom se publicará aquí antes del 31 de mayo, que es la fecha final para enviarlo al congreso.
+
+### Programa provisional
+
+|Hora|Título|Autoría|
+|----|------|-------|
+||Aplicaciones prácticas de las redes neuronales no supervisadas|David Charte|
+||Algoritmos cuánticos en Quipper|Pablo Baeyens|
+||Teorema de Artin-Wedderburn efectivo y códigos skew Reed-Solomon|José Manuel Muñoz|
+||Recorriendo contenedores: iteradores, rangos y sus categorías|Francisco Gallego Salido|
+||Problemas de programación y de matemáticas|Colectivo|
+
