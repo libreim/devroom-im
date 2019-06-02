@@ -34,9 +34,10 @@ El programa de la devroom se publicará aquí antes del 31 de mayo, que es la fe
 
 |Hora|Título|Autoría|
 |----|------|-------|
-||Aplicaciones prácticas de las redes neuronales no supervisadas|David Charte|
-||Algoritmos cuánticos en Quipper|Pablo Baeyens|
-||Teorema de Artin-Wedderburn efectivo y códigos skew Reed-Solomon|José Manuel Muñoz|
-||Recorriendo contenedores: iteradores, rangos y sus categorías|Francisco Gallego Salido|
-||Problemas de programación y de matemáticas|Colectivo|
+|10:00|Aplicaciones prácticas de las redes neuronales no supervisadas|David Charte|
+|10:30|Algoritmos cuánticos en Quipper|Pablo Baeyens|
+|11:00|Teorema de Artin-Wedderburn efectivo y códigos skew Reed-Solomon|José Manuel Muñoz|
+|11:30|Recorriendo contenedores: iteradores, rangos y sus categorías|Francisco Gallego Salido|
+|12:00|Descanso||
+|12:30|Problemas de programación y de matemáticas|Colectivo|
 
