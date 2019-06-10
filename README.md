@@ -30,14 +30,17 @@ El plazo para enviar charlas está abierto hasta el **27 de mayo**.
 
 El programa de la devroom se publicará aquí antes del 31 de mayo, que es la fecha final para enviarlo al congreso.
 
-### Programa provisional
+### Programa
+
+Consulta también el [**programa completo** de esLibre](https://eslib.re/2019/programa/)
 
 |Hora|Título|Autoría|
 |----|------|-------|
-|10:00|Aplicaciones prácticas de las redes neuronales no supervisadas|David Charte|
-|10:30|Algoritmos cuánticos en Quipper|Pablo Baeyens|
-|11:00|Teorema de Artin-Wedderburn efectivo y códigos skew Reed-Solomon|José Manuel Muñoz|
-|11:30|Recorriendo contenedores: iteradores, rangos y sus categorías|Francisco Gallego Salido|
-|12:00|Descanso||
-|12:30|Problemas de programación y de matemáticas|Colectivo|
+|10:15|Aplicaciones prácticas de las redes neuronales no supervisadas|David Charte|
+|11:00|Algoritmos cuánticos en Quipper|Pablo Baeyens|
+|11:45|Pausa||
+|12:15|Teorema de Artin-Wedderburn efectivo y códigos skew Reed-Solomon|José Manuel Muñoz|
+|13:00|Recorriendo contenedores: iteradores, rangos y sus categorías|Francisco Gallego Salido|
+|13:45|Comida||
+|15:00|Problemas de programación y de matemáticas|Colectivo|
 
